@@ -2,6 +2,4 @@ Devops
 Kubernetes is a great skill to learn
 Docker is a lightweight container
 Ansible is a Iaac Tool in cloud
-Nagios is a monitoring Tool
-
 
