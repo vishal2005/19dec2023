@@ -1,1 +1,2 @@
 Devops
+Kubernetes is a great skill to learn
